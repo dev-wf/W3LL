@@ -30,41 +30,6 @@ main .nome {
   font-size: 2.5rem;
   padding-bottom: 1em;
 }
-
-.cards-container {
-  width: 100vw;
-  background-color: yellowgreen;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: nowrap;
-  padding: 20px;
-}
-
-.card {
-  width: 150px;
-  height: 200px;
-  background-color: var(--rosa);
-  margin: 0 auto;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-  position: relative;
-  margin-bottom: 20px;
-}
-.card h3 {
-  text-align: center;
-  padding-top: 10px;
-  color: blue;
-}
-
-.card p {
-  text-align: center;
-  color: blueviolet;
-  padding-top: 10px;
-  padding-left: 2px;
-  padding-right: 2px;
-}
-
 footer {
   position: fixed;
   bottom: 0;
